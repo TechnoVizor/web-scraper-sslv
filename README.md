@@ -9,7 +9,7 @@ An analytical dashboard designed to find undervalued apartments and analyze hous
 ## 📊 Screenshots
 | Main Dashboard | Price Analysis (Scatter Plot) |
 | :---: | :---: |
-| ![Main](images/dashboard_main.png) | ![Scatter](images/scatter_plot.png) |
+| ![Main](main.png) | ![Scatter](plots.png) |
 
 ## 🛠 Technical Implementation
 
@@ -35,7 +35,7 @@ An analytical dashboard designed to find undervalued apartments and analyze hous
 ## 🚀 How to Run
 *Note: Due to organizational security policies, the "Publish to Web" feature is disabled.*
 
-1.  Download the file [Riga_Real_Estate.pbix](./parser.pbix) from this repository.
+1.  Download the file [parser.pbix](parser.pbix) from this repository.
 2.  Open it in **Microsoft Power BI Desktop**.
 
 ---
