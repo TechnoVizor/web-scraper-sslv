@@ -14,9 +14,12 @@ An analytical dashboard designed to find undervalued apartments and analyze hous
 ## 🛠 Technical Implementation
 
 ### 1. Data Collection (Python) 🐍
-* Developed a **custom web scraper** to collect real estate data from **ss.lv**.
-* **Stack:** Python, `requests`, `BeautifulSoup`, `lxml`.
+* The project includes a custom Python script to scrape fresh data from ss.lv.
 * Extracted key attributes: price, area, street, floor, and house series.
+  
+### Prerequisites
+* Python 3.8+
+* Libraries listed in `requirements.txt`
 
 ### 2. ETL (Power Query)
 * **Data Cleaning:** Removed currency symbols, formatted numeric fields, and handled missing values.
